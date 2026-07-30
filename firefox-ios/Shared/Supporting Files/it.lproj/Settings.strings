@@ -85,6 +85,12 @@
 /* In the AI Controls settings, in the AI powered features section, this is the title that describes the page summaries feature */
 "Settings.AIControls.AIPoweredFeaturesSection.PageSummariesSection.Title.v151" = "Riassunti delle pagine";
 
+/* In the AI Controls settings, in the AI powered features section, this is the message that describes the Quick Answers feature */
+"Settings.AIControls.AIPoweredFeaturesSection.QuickAnswersSection.Message.v154" = "La tua voce, le domande e le risposte non vengono mai salvate.";
+
+/* In the AI Controls settings, in the AI powered features section, this is the title that describes the Quick Answers feature */
+"Settings.AIControls.AIPoweredFeaturesSection.QuickAnswersSection.Title.v154" = "Risposte rapide";
+
 /* In the AI Controls settings, this is the title for the section that describes AI-powered features. This is uppercase to match the style on iOS apps. */
 "Settings.AIControls.AIPoweredFeaturesSection.Title.v151" = "FUNZIONALITÀ IA";
 
@@ -259,6 +265,15 @@
 /* Title for the `Suggestions from Search Engines` settings section in the Search page in the Settings menu. */
 "Settings.Search.EnginesSuggestions.Title.v124" = "Suggerimenti dai motori di ricerca";
 
+/* In the Search settings, this is the description that describes the Google Lens feature */
+"Settings.Search.GoogleLens.Description.v153" = "Invia immagini a Google per effettuare ricerche.";
+
+/* In the Search settings, this is the disclaimer underneath the Google Lens settings toggle that explains the conditions required for Google Lens to be available. */
+"Settings.Search.GoogleLens.Footnote.v153" = "Disponibile solo se Google è attivo qui sopra ed è il motore di ricerca in uso durante la navigazione.";
+
+/* In the Search settings, this is the title that describes the Google Lens feature */
+"Settings.Search.GoogleLens.Title.v153" = "Google Lens";
+
 /* Navigation title for search page in the Settings menu. */
 "Settings.Search.PageTitle.v121" = "Ricerca";
 
@@ -314,7 +329,7 @@
 "Settings.Studies.Message.v148" = "%@ seleziona utenti in modo casuale per provare nuove funzionalità, contribuendo così a migliorare la qualità del browser per tutti.";
 
 /* Label used as a toggle item in Settings. When this is off, the user is opting out of all studies. */
-"Settings.Studies.Title.v136" = "Installa e conduci studi";
+"Settings.Studies.Title.v136" = "Installa ed esegui studi";
 
 /* Label used as a toggle item in Settings. When this is off, the user is opting out of all studies. */
 "Settings.Studies.Title.v148" = "Consenti studi sulle funzionalità";
